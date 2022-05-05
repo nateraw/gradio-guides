@@ -10,5 +10,5 @@ gr.TabbedInterface(
         pictionary.app.interface,
         onnx_guide.app.interface,
     ],
-    tab_names=['chatbot', 'pictionary'],
+    tab_names=['chatbot', 'pictionary', 'onnx'],
 ).launch(debug=True)
